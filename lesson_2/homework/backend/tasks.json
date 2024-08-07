@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "20 sahifa kitob o'qish",
+        "isDone": true
+    },
+    {
+        "id": 2,
+        "title": "Ertalab yugurish 30 minut",
+        "isDone": false
+    },
+    {
+        "id": 4,
+        "title": "Ertalab 05:00da turish",
+        "isDone": true
+    },
+    {
+        "id": 5,
+        "title": "20 sahifa kitob o'qish",
+        "isDone": true
+    },
+    {
+        "id": 6,
+        "title": "Ertalab yugurish 30 minut",
+        "isDone": false
+    },
+    {
+        "id": 7,
+        "title": "50 sahifa kitob o'qish",
+        "isDone": false
+    },
+    {
+        "id": 8,
+        "title": "Ertalab 05:00da turish",
+        "isDone": true
+    },
+    {
+        "id": 9,
+        "title": "50 sahifa kitob o'qish",
+        "isDone": false
+    },
+    {
+        "id": 10,
+        "title": "Ertalab 05:00da turish",
+        "isDone": true
+    }
+]
