@@ -8,7 +8,15 @@
         "title": "Dasturlash bilan shug'ullanish"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "English bilan shug'ullanish"
+    },
+    {
+        "title": "test uchun",
+        "id": 4
+    },
+    {
+        "title": "test uchun",
+        "id": 5
     }
 ]
