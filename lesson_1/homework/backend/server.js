@@ -2,6 +2,9 @@ const http = require('http')
 const fileSystem = require('node:fs')
 
 const server = http.createServer((req, res) => {
+
+    res.setHeader('Access-Control-Allow-Origin','*')
+
     const urls = req.url.split('/')
     const taskId = urls[2]
     const tasks = fileSystem.readFileSync('./files/tasks.json')
